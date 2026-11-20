@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book id="1"><title>Learning PHP</title><author>Edison Avila</author><year>2024</year></book>
+  <book id="2"><title>Web APIs</title><author>Neil Francis Silla</author><year>2024</year></book>
+  <book id="3"><title>Intro to XML</title><author>Lucky Martizano</author><year>2024</year></book>
+  <book id="4"><title>JSON Basics</title><author>Billy Naire Nobre</author><year>2024</year></book>
+</library>
